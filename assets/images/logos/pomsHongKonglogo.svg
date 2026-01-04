@@ -22,12 +22,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.1092125"
-     inkscape:cx="79.942324"
+     inkscape:cx="79.942325"
      inkscape:cy="61.81233"
-     inkscape:window-width="2560"
-     inkscape:window-height="1321"
-     inkscape:window-x="1800"
-     inkscape:window-y="30"
+     inkscape:window-width="1800"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
      inkscape:window-maximized="1"
      inkscape:current-layer="_图层_1" />
   <defs
@@ -62,17 +62,21 @@
   <text
      class="cls-3"
      id="text1"
-     x="-0.26961017"
-     y="88.603432"><tspan
-       x="-0.26961017"
-       y="88.603432"
-       id="tspan1">POMS</tspan></text>
+     x="22.362463"
+     y="75.705582"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Onyx, Onyx;-inkscape-font-specification:'Onyx, Onyx, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       x="22.362463"
+       y="75.705582"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Onyx, Onyx;-inkscape-font-specification:'Onyx, Onyx, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">POMS</tspan></text>
   <text
      class="cls-2"
      id="text2"
-     x="45.947468"
-     y="115.77465"><tspan
-       x="45.947468"
-       y="115.77465"
-       id="tspan2">Hong Kong</tspan></text>
+     x="22.341972"
+     y="109.69077"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Onyx, Onyx;-inkscape-font-specification:'Onyx, Onyx, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"><tspan
+       x="22.341972"
+       y="109.69077"
+       id="tspan2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Onyx, Onyx;-inkscape-font-specification:'Onyx, Onyx, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Hong Kong</tspan></text>
 </svg>
