@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 90 90"
+   xml:space="preserve"
+   sodipodi:docname="pomslogo.svg"
+   width="90"
+   height="90"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="4.0237686"
+   inkscape:cx="-29.94705"
+   inkscape:cy="64.864565"
+   inkscape:window-width="2560"
+   inkscape:window-height="1321"
+   inkscape:window-x="1800"
+   inkscape:window-y="30"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="图层_1" />
+<style
+   type="text/css"
+   id="style1">
 	.st0{fill:#9E8B4F;}
 	.st1{fill:#FFFFFF;}
 	.st2{font-family:'Onyx';}
 	.st3{font-size:31.2889px;}
 </style>
-<rect x="0.1" y="0.1" class="st0" width="55.8" height="55.8"/>
-<text transform="matrix(1 0 0 1 4 38.1951)" class="st1 st2 st3">POMS</text>
+<rect
+   x="0.1"
+   y="0.1"
+   class="st0"
+   width="90"
+   height="90"
+   id="rect1"
+   inkscape:label="rect1" />
+<text
+   class="st1 st2 st3"
+   id="text1"
+   x="-0.93647921"
+   y="55.313065"
+   inkscape:label="text1">POMS</text>
 </svg>

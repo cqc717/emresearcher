@@ -1,7 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 98">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层 1"
+   viewBox="0 0 160 160"
+   version="1.1"
+   sodipodi:docname="pomsHongKonglogo.svg"
+   width="160"
+   height="160"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.1092125"
+     inkscape:cx="79.942324"
+     inkscape:cy="61.81233"
+     inkscape:window-width="2560"
+     inkscape:window-height="1321"
+     inkscape:window-x="1800"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .cls-1 {
         fill: #9e8b4f;
       }
@@ -20,7 +52,27 @@
       }
     </style>
   </defs>
-  <rect class="cls-1" width="98" height="98"/>
-  <text class="cls-3" transform="translate(6 59.19) scale(1 1)"><tspan x="0" y="0">POMS</tspan></text>
-  <text class="cls-2" transform="translate(6 83.68) scale(1 1)"><tspan x="0" y="0">Hong Kong</tspan></text>
+  <rect
+     class="cls-1"
+     width="160"
+     height="160"
+     id="rect1"
+     x="0"
+     y="0" />
+  <text
+     class="cls-3"
+     id="text1"
+     x="-0.26961017"
+     y="88.603432"><tspan
+       x="-0.26961017"
+       y="88.603432"
+       id="tspan1">POMS</tspan></text>
+  <text
+     class="cls-2"
+     id="text2"
+     x="45.947468"
+     y="115.77465"><tspan
+       x="45.947468"
+       y="115.77465"
+       id="tspan2">Hong Kong</tspan></text>
 </svg>
